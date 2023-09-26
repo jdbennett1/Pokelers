@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_snore.png.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\snore.png"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.dogglers.app-merged_res-29:/layout_vertical_horizontal_list_item.xml.flat",
+        "source": "com.example.dogglers.app-main-31:/layout/vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_grid_list.xml.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_grid_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_grid_list_item.xml.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\grid_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_blast.png.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\blast.png"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_venus.png.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\venus.png"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_horizontal_list.xml.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_horizontal_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_kyogre.png.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\kyogre.png"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_grou.png.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\grou.png"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_arc.png.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\arc.png"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_chard.png.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\chard.png"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_vertical_horizontal_list_item.xml.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\layout_activity_vertical_list.xml.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\layout\\activity_vertical_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_ray.png.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\ray.png"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_pika.png.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\pika.png"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_meta.png.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\meta.png"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\benne\\.gradle\\daemon\\7.4.2\\com.example.dogglers.app-main-31:\\drawable\\ic_launcher_background.xml"
+    }
+]
